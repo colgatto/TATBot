@@ -1,0 +1,1 @@
+{"chat_id":"200646","text":"\/factorio arg [Cerca arg sul wiki di factorio]\n\/fff [Mostra gli ultimi 5 factorio friday fact]\n\/ideone code [Mostra info relative a un codice su ideone]\n\/memo [Clicca per maggiori dettagli]\n\/service [Clicca per maggiori dettagli]\n\/song [Clicca per maggiori dettagli]\n\/register [Clicca per poter gestire alfred dal tuo browser]"}
