@@ -2,7 +2,8 @@
 <head>
 	<link rel="stylesheet" href="codemirror.min.css">
 	<link id="cssTheme" rel="stylesheet" href="monokai.css">
-	<script src="jquery-3.0.0.min.js"></script>
+	<!--script src="jquery-3.0.0.min.js"></script-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="codemirror.min.js"></script>
 	<script src="javascript.js"></script>
 	<script src="format.js"></script>
