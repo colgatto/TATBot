@@ -1,5 +1,5 @@
-# TATBot
-## Testing Ambient for Telegram Bot
+# TeBot
+## Testing Enviroment for Telegram Bot
 you can send custom update packages to your bot(remote or local) and see response on the same page, this tool is made up for simplify bots bugfix even offline
 ### Installation
 Simply change your telegram api link.
