@@ -1,7 +1,4 @@
 <?php
-//T.A.T. Bot
-//Testing Ambient for Telegram Bot
-
 mb_internal_encoding('UTF-8');
 
 function sendBodyRequest($url,$data){
